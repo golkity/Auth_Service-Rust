@@ -1,0 +1,20 @@
+[package]
+name = "JWT_Authentication"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+tokio = {version = "1.36.0", features = ["full"]}
+
+axum = "0.7.4"
+
+jsonwebtoken = "9.2.0"
+
+serde = "1.0.197"
+
+serde_json = "1.0.114"
+
+chrono = "0.4.41"
