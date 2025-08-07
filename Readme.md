@@ -12,3 +12,8 @@
 > ```shell
 > corgo run --quite
 > ```
+> 
+> **Git clone**
+> ```shell
+> git clone https://github.com/golkity/Auth_Service-Rust.git
+> ```
